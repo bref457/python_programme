@@ -33,8 +33,8 @@ Dieses Repository enthält eine Sammlung von Python-Programmen, die verschiedene
    git clone https://github.com/bref457/python_programme.git
 2. In das Verzeichnis wechseln:
 
-bash
-cd python_programme
+   bash
+   cd python_programme
 
 ## Abhängigkeiten installieren:
 
