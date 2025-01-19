@@ -47,8 +47,8 @@ python3 programmname.py
 
 Ersetze programmname.py durch den Namen des gewünschten Programms, z.B. BMI_grafik.py.
 
-📝 Lizenz
+## 📝 Lizenz
 Dieses Projekt steht unter der MIT-Lizenz. Siehe die LICENSE Datei für weitere Details.
 
-🤝 Beitrag leisten
+## 🤝 Beitrag leisten
 Beiträge sind willkommen! Wenn du Fehler findest oder Verbesserungen vorschlagen möchtest, eröffne bitte ein Issue oder erstelle einen Pull Request.
